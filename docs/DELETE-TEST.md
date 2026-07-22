@@ -1,0 +1,1 @@
+Temporary file to validate delete_file action.
